@@ -12,8 +12,8 @@ const CONFIG = {
     timeout: 120000 // 2 minutes
   },
   ui: {
-    ssl: false,
-    host: 'localhost',
+    ssl: true,
+    host: 'app-ef42dc7c-fe2c-4e81-a4ec-923671a763aa.cleverapps.io',
     port: 3000,
     path: '/'
   },
