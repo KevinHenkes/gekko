@@ -14,7 +14,7 @@ const CONFIG = {
   ui: {
     ssl: true,
     host: 'app-ef42dc7c-fe2c-4e81-a4ec-923671a763aa.cleverapps.io',
-    port: 3000,
+    port: 443,
     path: '/'
   },
   adapter: 'sqlite'
