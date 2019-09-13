@@ -13,7 +13,7 @@ const CONFIG = {
   },
   ui: {
     ssl: true,
-    host: 'app-ef42dc7c-fe2c-4e81-a4ec-923671a763aa.cleverapps.io',
+    host: 'app-79b468ed-d105-4b66-8ff2-deac50644392.cleverapps.io',
     port: 443,
     path: '/'
   },
